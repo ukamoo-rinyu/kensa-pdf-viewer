@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 検査対象の資料・検査データはリポジトリに入れない
+*.pdf
+*.xlsx
+*.sqlite3
+*_指摘.json
